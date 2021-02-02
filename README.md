@@ -71,6 +71,8 @@ balsamiq was used to build wireframes
 
 
 #Credits
+The design code template for this site is built on the example in code institute 'Whiskey website'
+The design aspects were the same and were used as a starting point
 
 ##Media
 The photos used in this site were obtained from www.unsplash.com
