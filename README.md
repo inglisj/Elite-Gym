@@ -1,45 +1,79 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#Elite Gyms Website  
 
-Welcome inglisj,
+Elite Gyms is a fitness center specialising in high end services in the health & fitness sector. 
+The gyms focus is to provide fitness programs and assist in achieving fitness goals of its customers. 
+The project entails a responsive website for the client; Elite Gyms.
+The website is required to attract new customers to sign up for membership to the gym and also to provide information to existing members, therefore the website will be multi purposeful both to sign up new members but also assist existing members. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+#UX
+##User stories
 
-## Gitpod Reminders
+##First Time Visitor Goals
+*As a first time visitor I want to quickly understand the purpose of the site 
+*As a first time visitor I want to know what the company is offering 
+*As a first time visitor I want to easily and navigate through the site 
+*As a first time visitor I want to be enticed to sign up and know how to achieve this quickly. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+##Returning Visitor Goals 
+*As a returning visitor I want to navigate through the site comfortably
+*As a returning visitor I want to easily source the information required 
+*As a returning visitor I want to feel familiar with the content and layout of the site 
 
-`python3 -m http.server`
+##Member Goals 
+*As a member I want to easily access information both public and secured  
+*As a member I want to know where to get required information easily 
+*As a member I want to login to my member site with ease. 
 
-A blue button should appear to click: *Make Public*,
+#Design 
+##Color Scheme
+The main colors on the website will be slate gray, white and orange. The website design is focused on a minimal and simplistic feel 
 
-Another blue button should appear to click: *Open Browser*.
+##Typography
+*The Roboto font will be the main font used throughout the site with sans serif as the back up if for any reason the main font does not load successfully. 
+*The Exo font will be used for headings 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+##Imagery 
+The wesite contains a logo that was designed and created using https://www.canva.com/
+The logo will act as the main image of the homepage on the site in the form of a hero image. 
 
-A blue button should appear to click: *Make Public*,
+##Wireframes 
+Wireframes for the designing of the project were built using balsamiq cloud. 
+https://balsamiq.com/wireframes/cloud/
 
-Another blue button should appear to click: *Open Browser*.
+[Elite Gym Homepage] (https://balsamiq.cloud/ssim83c/prntpcj/r9C6D)
+[Elite Gym About] (https://balsamiq.cloud/ssim83c/prntpcj/r3AC0)
+[Elite Gym Services] (https://balsamiq.cloud/ssim83c/prntpcj/rE336)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+##Features 
+Responsive on all devices 
+Interactive designs on elements 
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+#Technologies Used 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+##Languages Used 
+HTML5, CSS3
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+##Frameworks, Libraries & Programs Used 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css
+https://kit.fontawesome.com/3db2fbda72.js
+Fontawesome was imported to add interactive desgin elements 
+Google Fonts imported to the style sheet. 
+Git was used at the development application and version control 
+Github used to stor projects once pushed to GitHub repository 
+balsamiq was used to build wireframes 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+#Features
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+#Deployment
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
+#Credits
 
-Happy coding!
+##Media
+The photos used in this site were obtained from www.unsplash.com
+
+##Acknowledgements
+I would like to thank the code institute and my mentor @Narender Singh 
